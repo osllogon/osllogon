@@ -21,8 +21,9 @@ I am a Senior Data Scientist at Ericsson Cognitive Software. I am passionate abo
 
 <div align="center">
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osllogon/)](https://www.linkedin.com/in/osllogon/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/osllogon)](https://github.com/osllogon)
+[![Outlook Badge](https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oscar.llorente.gonzalez@ericsson.com)](mailto:oscar.llorente.gonzalez@ericsson.com)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:osllogon@gmail.com)](mailto:osllogon@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minoveaz/)](https://www.linkedin.com/in/osllogon/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/minoveaz)](https://github.com/osllogon)
 
 </div>
