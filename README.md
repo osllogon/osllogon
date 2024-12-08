@@ -12,7 +12,7 @@ I am a Senior Data Scientist at Ericsson Cognitive Software. I am passionate abo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,python,pytorch,tensorflow,git,github,gitlab,jenkins,vscode,linux,latex" />
+    <img src="https://skillicons.dev/icons?i=ai,python,pytorch,tensorflow,git,github,gitlab,docker,jenkins,vscode,linux,latex" />
   </a>
 </p>
 
